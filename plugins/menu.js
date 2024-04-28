@@ -21,7 +21,7 @@ let tags = {
   'uploader':'‎‎ رفع الملفات‎',
 }
 const defaultMenu = {
-  before: `السلام عليكم 👋. 
+  before: ` ❤السلام عليكم ياسين يرحب بكم👋. 
 
 ┏━━ salam  *%name*
 👥 *Total user:* %totalreg 
@@ -136,7 +136,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
+title: 'YASSIN BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/879777a1b64dbf89c43ff.jpg',
 sourceUrl: 'https://www.instagram.com/x_yassiii?igsh=bG4xZDVmaGp5am03',
